@@ -51,7 +51,7 @@ function getAgentInfo($this, $val){
 function deviceLoad(){
 	//디바이스 시뮬레이터 컨텐츠
 	var items = [],
-		defaultURL = 'http://bluewaves.co.kr';
+		defaultURL = 'http://www.csszengarden.com';
 		$agentLst = $('#agentLst ul ul>li');
 
 	$.each(device, function(idx, val){
